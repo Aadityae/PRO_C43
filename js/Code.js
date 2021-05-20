@@ -14,12 +14,13 @@ fill("white")
 textSize(15)
 text("A T A D B A E S", 700,350)
 fill("lightblue")
-    text("Hint: Performs a Particular Task !!", 700,370)
+    text("Hint: Stores all Information !!", 700,370)
 
 
 fill("white")
     textSize(15)
     text("C U T N I F O N", 700,150)
     fill("lightblue")
-    text("Hint: Stores all Information !!", 700,170)
+     text("Hint: Performs a Particular Task !!", 700,170)
+   
 }
